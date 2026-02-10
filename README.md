@@ -1,4 +1,4 @@
-🛡️ ForensicVault – Digital Forensics Toolkit
+#🛡️ ForensicVault – Digital Forensics Toolkit
 A high-fidelity UI prototype for a cybercrime investigation and evidence management platform.
 
 📖 Overview
@@ -36,12 +36,6 @@ Clone the repository:
 Navigate to the project directory:
 
 Open index.html in any modern web browser.
-
-📸 Screenshots
-(Add a screenshot of your dashboard here later)
-
-Option 2: The Short & Sweet Version
-Use this if you just want a quick description.
 
 ForensicVault 🕵️‍♂️
 ForensicVault is a responsive web prototype for a digital forensics investigation toolkit. It features a professional dark-themed UI designed for cyber investigators to track evidence, analyze logs, and generate reports.
